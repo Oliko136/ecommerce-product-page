@@ -1,0 +1,13 @@
+/* Custom property declarations */
+
+:root {
+    --grey-950: #1D2026;
+    --grey-500: #69707D;
+    --grey-300: #C3CAD9;
+    --grey-100: #E4E9F2;
+    --grey-50: #F6F8FD;
+    --orange-500: #FF7E1B;
+    --orange-300: #FFAB6A;
+    --white: #FFFFFA;
+    --black: #000000;
+}
