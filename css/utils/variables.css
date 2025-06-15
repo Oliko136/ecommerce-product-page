@@ -23,4 +23,6 @@
     --spacing-1200: 6rem;
     --spacing-1300: 6.5rem;
     --spacing-1600: 8rem;
+    --mobile: 375px;
+    --desktop: 1440px;
 }
