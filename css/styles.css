@@ -1,2 +1,6 @@
 /* BASE */
 @import './base/global.css';
+
+/* UTILS */
+@import './utils/variables.css';
+@import './utils/fonts.css';

@@ -10,7 +10,9 @@
     --orange-300: #FFAB6A;
     --white: #FFFFFA;
     --black: #000000;
-    --font-family: 'Kumbh Sans Bold', sans-serif;
+    --font-family: 'Kumbh Sans', sans-serif;
+    --font-weight-bold: 700;
+    --letter-spacing-accent: 0.125rem;
     --spacing-100: 0.5rem;
     --spacing-200: 1rem;
     --spacing-300: 1.5rem;
