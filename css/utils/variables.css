@@ -11,6 +11,12 @@
     --white: #FFFFFA;
     --black: #000000;
     --font-family: 'Kumbh Sans', sans-serif;
+    --font-size-title-desktop: 2.75rem;
+    --font-size-title-mobile: 1.75rem;
+    --font-size-text-desktop: 1rem;
+    --font-size-text-mobile: 0.9375rem;
+    --font-size-accent-desktop: 0.8125rem;
+    --font-size-accent-mobile: 0.75rem;
     --font-weight-bold: 700;
     --letter-spacing-accent: 0.125rem;
     --spacing-100: 0.5rem;
