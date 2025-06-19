@@ -17,6 +17,11 @@
     --font-size-text-mobile: 0.9375rem;
     --font-size-accent-desktop: 0.8125rem;
     --font-size-accent-mobile: 0.75rem;
+    --line-height-title-desktop: 3rem;
+    --line-height-title-mobile: 2rem;
+    --line-height-text: 1.625rem;
+    --line-height-accent-desktop: 1rem;
+    --line-height-accent-mobile: 0.9375rem;
     --font-weight-bold: 700;
     --letter-spacing-accent: 0.125rem;
     --spacing-100: 0.5rem;
