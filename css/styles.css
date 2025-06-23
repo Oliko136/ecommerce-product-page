@@ -4,3 +4,6 @@
 /* UTILS */
 @import './utils/variables.css';
 @import './utils/fonts.css';
+
+/* COMPONENTS */
+@import './components/container.css';
